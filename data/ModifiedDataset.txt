@@ -1,0 +1,4 @@
+Google Drive does not allow for these for these files to be downloaded quickly so I will simply share the link.
+
+trainingset: https://drive.google.com/drive/folders/1VHPRc7wgW5CXQ_C6W9jPRm8IzU3p2WC9?usp=sharing
+testset: https://drive.google.com/drive/folders/1b4jUJWIiMIpLXx6lrlGXQVQjFYPsK6cm?usp=sharing
